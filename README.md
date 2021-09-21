@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+#### 😄 About Me
+- Pronouns: She/Her 
+- Undergrad CS student at Ryerson University
+- Sweet Tooth :cake:
+- Love drawing & painting 🎨
+
+#### 🔭 I’m currently working on ...
+- Accenture Virtual Developer Experience Program
+
+#### 🌱 I’m currently learning ...
+- React 
+- Swift
+
+:computer: To check out my past hackathon projects, view my Devpost [here](https://devpost.com/nikadariani?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). 
+
 <!--
 **nikadari/nikadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
