@@ -3,6 +3,7 @@
 #### 😄 About Me
 - Pronouns: She/Her 
 - Undergrad CS student at Ryerson University
+- Incoming Software Engineering Intern at the Scotiabnk Velocity Program 
 - Sweet Tooth :cake:
 - Love drawing & painting 🎨
 
