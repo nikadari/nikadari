@@ -7,11 +7,10 @@
 - Love drawing & painting 🎨
 
 #### 🔭 I’m currently working on ...
-- Accenture Virtual Developer Experience Program
+- Re-building Ryerson University's WiCS website
 
 #### 🌱 I’m currently learning ...
 - React 
-- Swift
 
 :computer: To check out my past hackathon projects, view my Devpost [here](https://devpost.com/nikadariani?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). 
 
