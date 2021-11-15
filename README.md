@@ -10,8 +10,11 @@
 #### 🔭 I’m currently working on ...
 - Re-building Ryerson University's WiCS website
 
-#### 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning/studying ...
 - React 
+- Web Development (HTML/CSS)
+- Database Systems (SQL)
+- Prolog
 
 :computer: To check out my past hackathon projects, view my Devpost [here](https://devpost.com/nikadariani?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). 
 
