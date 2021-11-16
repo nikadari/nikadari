@@ -8,7 +8,7 @@
 - Love drawing & painting 🎨
 
 #### 🔭 I’m currently working on ...
-- Re-building Ryerson University's WiCS website
+- Helping re-build Ryerson University's WiCS website
 
 #### 🌱 I’m currently learning/studying ...
 - React 
