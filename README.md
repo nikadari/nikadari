@@ -8,7 +8,7 @@
 - Love drawing & painting 🎨
 
 #### 🔭 I’m currently working on ...
-- Helping re-build Ryerson University's WiCS website
+- Studying for the AZ-900: Azure Cloud Fundamentals exam
 
 #### 🌱 I’m currently learning/studying ...
 - React 
