@@ -3,7 +3,7 @@
 #### 😄 About Me
 - Pronouns: She/Her 
 - Undergrad CS student at Ryerson University
-- Incoming Software Engineering Intern at the Scotiabank Velocity Program 
+- Current Software Engineering Intern at the Scotiabank Velocity Program 
 - Sweet Tooth :cake:
 - Love drawing & painting 🎨
 
