@@ -3,16 +3,19 @@
 #### 😄 About Me
 - Pronouns: She/Her 
 - Undergrad CS student at Ryerson University
-- Current Software Engineering Intern at the Scotiabank Velocity Program 
+- Incoming Engineering Associate at Scotiabank/Scotia Digital Momentum Program
 - Sweet Tooth :cake:
 - Love drawing & painting 🎨
 
 #### 🔭 I’m currently working on ...
-- Studying for the AZ-900: Azure Cloud Fundamentals exam
+- Creating a web applicatioon for my software engineering class
 
 #### 🌱 I’m currently learning/studying ...
-- React 
-- Java Springboot
+- React
+- Human Computer Interaction (class)
+- Information Retrieval (class)
+- Software Engineering I (class)
+- Video Production (class)
 
 :computer: To check out my past hackathon projects, view my Devpost [here](https://devpost.com/nikadariani?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). 
 
