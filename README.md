@@ -2,16 +2,13 @@
 
 #### 😄 About Me
 - Pronouns: She/Her 
-- Undergrad CS student at Ryerson University
+- Undergrad CS student at Toronto Metropolitan University (formerly Ryerson University)
 - Incoming Engineering Associate at Scotiabank/Scotia Digital Momentum Program
-- Sweet Tooth :cake:
-- Love drawing & painting 🎨
 
 #### 🔭 I’m currently working on ...
 - Creating a web applicatioon for my software engineering class
 
 #### 🌱 I’m currently learning/studying ...
-- React
 - Human Computer Interaction (class)
 - Information Retrieval (class)
 - Software Engineering I (class)
