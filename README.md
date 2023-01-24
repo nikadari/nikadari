@@ -6,13 +6,12 @@
 - Incoming Engineering Associate at Scotiabank/Scotia Digital Momentum Program
 
 #### 🔭 I’m currently working on ...
-- Creating a web applicatioon for my software engineering class
+- 
 
 #### 🌱 I’m currently learning/studying ...
-- Human Computer Interaction (class)
-- Information Retrieval (class)
-- Software Engineering I (class)
-- Video Production (class)
+- Web Applications (class)
+- Design and Layout (class)
+- Intro to Data Science (class)
 
 :computer: To check out my past hackathon projects, view my Devpost [here](https://devpost.com/nikadariani?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). 
 
