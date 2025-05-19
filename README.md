@@ -1,17 +1,14 @@
 ### Hi there 👋
 
 #### 😄 About Me
-- Pronouns: She/Her 
-- Undergrad CS student at Toronto Metropolitan University (formerly Ryerson University)
-- Incoming Engineering Associate at Scotiabank/Scotia Digital Momentum Program
+- iOS Engineer with 2 years of professional experience
+- Interested in Human Computer Interaction/UX Design and AI
 
 #### 🔭 I’m currently working on ...
-- 
+- Mastering SwiftUI
 
-#### 🌱 I’m currently learning/studying ...
-- Web Applications (class)
-- Design and Layout (class)
-- Intro to Data Science (class)
+#### 🌱 Current hobbies ...
+- Learning Italian
 
 :computer: To check out my past hackathon projects, view my Devpost [here](https://devpost.com/nikadariani?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). 
 
