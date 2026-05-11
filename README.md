@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 #### 😄 About Me
-- iOS Engineer with 2 years of professional experience
-- Interested in Human Computer Interaction/UX Design and AI
+- previous iOS Engineer with 2 years of professional experience
+- Passionate about in Product Design, HCI, and Ethical AI
 
 #### 🔭 I’m currently working on ...
-- Mastering SwiftUI
+- Pursuing a Double Degree Masters Program in Emotional Artificial Intelligence in Italy & France
 
 #### 🌱 Current hobbies ...
 - Learning Italian
