@@ -2,7 +2,7 @@
 
 #### 😄 About Me
 - previous iOS Engineer with 2 years of professional experience
-- Passionate about in Product Design, HCI, and Ethical AI
+- Passionate about Product Design, HCI, and Ethical AI
 
 #### 🔭 I’m currently working on ...
 - Pursuing a Double Degree Masters Program in Emotional Artificial Intelligence in Italy & France
